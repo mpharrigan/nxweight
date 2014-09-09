@@ -1,0 +1,1 @@
+from .nxweight import WeightedGraph
